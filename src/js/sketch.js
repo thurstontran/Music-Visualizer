@@ -30,7 +30,7 @@ function setup() {
   // Assign song to soundFile if no file is loaded
   if (!hasFile) {
     soundFile = song;
-    fileName = "Currently playing: Couple - Starry Night.mp3";
+    fileName = "Currently playing: Couple N - Starry Night.mp3";
   }
 
   //On loading the program, when fileName is not detected set it to blank, otherwise display fileName.
